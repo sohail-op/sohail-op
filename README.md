@@ -1,53 +1,53 @@
 # 👋 Hey, I'm Sohail Khan
 
-> Full Stack Dev ⚡ • Retro‑Game Revivalist 🎮 • Graphics.js Guru 🖌️ • DNS Wrangler 🌐
+> Full‑Stack Dev ⚙️ • CSP‑Army Bug Hunter 🐛 • Service‑Mesh Whisperer 🎯 • JavaScript Polymath
 
-I build cool stuff—sometimes over-engineered—mostly with **JavaScript**, **C**, **Python**, and a serious love for bug‑hunting and the red team life.
-
----
-
-## 🛠 Projects That Don't Sleep
-
-- **retro‑games** – Old-school classics (Nibbles, Space Invaders, Towers of Hanoi…) in Java, AS3 & JS.
-- **graphics.js** – DIY drawing toolkit (lines/arcs/ellipses) so you can pretend to be Da Vinci in code.
-- **DNSClient** – Lightweight C implementation of the DNS protocol, because why depend on system libs?
-
-:contentReference[oaicite:1]{index=1}
+I build stuff, break stuff, fix vulnerabilities—in that order. Passionate about **cybersecurity**, red‑teaming, bug‑hunting, and web apps built with **JS**, **React**, **Node**, and *occasional C/Python*.
 
 ---
 
-## 🧠 Cyber‑Stuff & Bug Hunting
+## 🛠 Projects That Don’t Sleep
 
-Love that adrenaline when poking at systems and finding how they break.  
-If you're into pentesting, red‑teaming, or bug bounties—I’m right there with you.
+- **Chat App** – Real‑time messaging in plain JS: because typing “hello” never gets old.
+- **SysWatch** – System monitoring tool in JS. Keeps an eye so your machine doesn’t yell at you.
+- **GraphFlow** – React SPA to visualize and manage service mesh graphs with live data & drag‑drop UX.
+- **ShareDaddy** – Instant text & file sharing, powered by plain ol’ Socket.io.
 
 ---
 
-## 📡 Hit Me Up If...
+## 🔒 Cyber‑Security & Bug Hunting
 
-- You're setting up a bug bounty hunt and want a partner – or someone to rant with.
-- You need someone who’s debugged DNS in C, wrangled canvas graphics, or revived retro‑game code.
-- You have a webapp with that *one weird vulnerability* and want it squashed (caffeine and dark humor included).
+Bug bounties? Pentests? Red‑team ops? Count me in.
+
+Hunting down vulnerabilities and exploiting (ethically) is my adrenaline fix—whether in web apps, APIs, or Docker configs.
+
+---
+
+## 📡 Reach Out If...
+
+- You’re running or joining a bug‑bounty program.
+- You need help pentesting your React/Node app or service mesh.
+- You want a partner to debug system monitoring, graphs, or Socket.io quirks.
 
 ---
 
 ## 📇 Dev Card
 
 <a href="https://cloud.appwrite.io/card/652d9c1019ca72e687a8">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=652d9c1019ca72e687a8" alt="Appwrite Cloud Card" />
+  <img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=652d9c1019ca72e687a8" alt="Appwrite Cloud Card" />
 </a>
 
 ---
 
 ## 🎯 Life Motto
 
-> "Exploit the bug, patch the code, repeat—life’s better that way."
+> “Find the bug. Own the vector. Patch it or watch it ignite.”
 
 ---
 
 ### ⚡ Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/sohail-khan-8185b5243/) • [Email](mailto:sohail.example@email.com) • [Portfolio](https://yourportfolio.dev)
+[LinkedIn](https://www.linkedin.com/in/sohail-khan-8185b5243/) • [Email](mailto:sohail.example@domain.com) • [Portfolio](https://yourportfolio.dev)
 
 ---
 
-🖤 Built on curiosity, caffeine, and the occasional stack overflow panic.
+🖤 Built on curiosity, coffee, and courtroom-level vulnerability reports.
