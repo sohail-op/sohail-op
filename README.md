@@ -1,33 +1,36 @@
 # 👋 Hey, I'm Sohail Khan
 
-> Full‑Stack Dev ⚙️ • CSP‑Army Bug Hunter 🐛 • Service‑Mesh Whisperer 🎯 • JavaScript Polymath
+> Full‑Stack Dev ⚙️ • Socket.io Surgeon 🧠 • Cloud-native Minimalist ☁️ • Bug Hunter by Night 🐞
 
-I build stuff, break stuff, fix vulnerabilities—in that order. Passionate about **cybersecurity**, red‑teaming, bug‑hunting, and web apps built with **JS**, **React**, **Node**, and *occasional C/Python*.
+I'm a passionate builder, breaker, and debugger—equally at home crafting real-time apps as I am digging through source maps for security holes. I thrive at the intersection of web dev and cybersec (especially red teaming and bug bounty stuff).
 
 ---
 
 ## 🛠 Projects That Don’t Sleep
 
-- **Chat App** – Real‑time messaging in plain JS: because typing “hello” never gets old.
-- **SysWatch** – System monitoring tool in JS. Keeps an eye so your machine doesn’t yell at you.
-- **GraphFlow** – React SPA to visualize and manage service mesh graphs with live data & drag‑drop UX.
-- **ShareDaddy** – Instant text & file sharing, powered by plain ol’ Socket.io.
+- **🟢 YAP** – A full-stack MERN chat app with live messaging, JWT auth, profile pics, and real-time user presence. Built with Next.js, Zustand, and Tailwind CSS. Think WhatsApp, but more developer therapy and less stickers.
+
+- **📊 SysWatch** – A distributed system monitoring suite. 10 simulated clients push real-time process stats to a central server via Redis Pub/Sub. It's nerdy, modular, and useful when you want to know exactly how your machines are suffering.
+
+- **📤 ShareDaddy** – Share text and files via short codes. Features R2-backed uploads, Redis caching, auto-expiry, rate-limiting, and a frontend that actually respects your screen size. Powered by Next.js 13+ and Express.
+
+- **🔁 GraphFlow** – An interactive React Flow SPA for visualizing service mesh topology. Add/remove services, link them live, and manipulate nodes like you're designing a high-stakes subway map.
 
 ---
 
-## 🔒 Cyber‑Security & Bug Hunting
+## 🔒 Cybersecurity & Bug Hunting
 
-Bug bounties? Pentests? Red‑team ops? Count me in.
+Into bug bounty? Red team ops? Same here. I enjoy poking around in web apps, APIs, and client-side JS for anything weird—and I usually find something.
 
-Hunting down vulnerabilities and exploiting (ethically) is my adrenaline fix—whether in web apps, APIs, or Docker configs.
+Whether it’s CSP bypasses, misconfigured tokens, or that one missing `HttpOnly` flag... I’m hunting it.
 
 ---
 
 ## 📡 Reach Out If...
 
-- You’re running or joining a bug‑bounty program.
-- You need help pentesting your React/Node app or service mesh.
-- You want a partner to debug system monitoring, graphs, or Socket.io quirks.
+- You're building real-time apps and want help with sockets, scaling, or Redis magic.
+- You’re looking to secure your frontend/backend (headers, JWTs, RCEs, the fun stuff).
+- You want a teammate to nerd out over race conditions or auth bypasses at 2AM.
 
 ---
 
@@ -41,7 +44,7 @@ Hunting down vulnerabilities and exploiting (ethically) is my adrenaline fix—w
 
 ## 🎯 Life Motto
 
-> “Find the bug. Own the vector. Patch it or watch it ignite.”
+> “If it runs, monitor it. If it breaks, debug it. If it’s vulnerable—exploit it (then responsibly disclose).”
 
 ---
 
@@ -50,4 +53,4 @@ Hunting down vulnerabilities and exploiting (ethically) is my adrenaline fix—w
 
 ---
 
-🖤 Built on curiosity, coffee, and courtroom-level vulnerability reports.
+🖤 Built on open source, late-night debugging, and healthy disrespect for insecure headers.
