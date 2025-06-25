@@ -1,32 +1,33 @@
 # 👋 Hey, I'm Sohail Khan
 
-> Full Stack Developer ⚙️ • Graph Bender 🕸 • Redaction Whisperer 🕵️‍♂️ • Occasional Wi-Fi Driver Therapist 🛠️
+> Full Stack Dev ⚡ • Retro‑Game Revivalist 🎮 • Graphics.js Guru 🖌️ • DNS Wrangler 🌐
 
-I build secure, scalable, and sometimes over-engineered stuff. Mostly with **MERN**, **Next.js**, **Redis**, and **a mild caffeine addiction**.
+I build cool stuff—sometimes over-engineered—mostly with **JavaScript**, **C**, **Python**, and a serious love for bug‑hunting and the red team life.
 
 ---
 
 ## 🛠 Projects That Don't Sleep
 
-- 🔴 **RE-DACT** – NLP-powered data redaction tool. Security so tight it redacts itself.  
-- 📈 **Distributed System Monitor** – Real-time system stats, two clients, one Redis, zero patience.  
-- 🧠 **CIS Audit Tool** – Automated scripts for Windows/Linux hardening, because clicking through GUIs is for masochists.  
-- 🧰 **Tshare** – Instant file & text sharing with Socket.io. Like pastebin, but with more real-time sass.  
-- 📊 **Kiali-inspired Graph SPA** – Because if your services aren't tangled in a React Flow, do they even exist?
+- **retro‑games** – Old-school classics (Nibbles, Space Invaders, Towers of Hanoi…) in Java, AS3 & JS.
+- **graphics.js** – DIY drawing toolkit (lines/arcs/ellipses) so you can pretend to be Da Vinci in code.
+- **DNSClient** – Lightweight C implementation of the DNS protocol, because why depend on system libs?
+
+:contentReference[oaicite:1]{index=1}
 
 ---
 
-## ⚙️ Tech Stack Snapshot
+## 🧠 Cyber‑Stuff & Bug Hunting
 
-`JavaScript` | `React` | `Next.js` | `Node.js` | `Express` | `MongoDB` | `Redis` | `Docker` | `Tailwind` | `Kali Linux` (sometimes angrily)
+Love that adrenaline when poking at systems and finding how they break.  
+If you're into pentesting, red‑teaming, or bug bounties—I’m right there with you.
 
 ---
 
-## 📡 Ping Me If...
+## 📡 Hit Me Up If...
 
-- You're debugging a MediaTek MT7902 on Linux and need therapy.
-- You want to book devs for live coding help... *instant crypto payments included*.
-- You're building something wild in WebSockets, Graphs, or CI/CD chaos.
+- You're setting up a bug bounty hunt and want a partner – or someone to rant with.
+- You need someone who’s debugged DNS in C, wrangled canvas graphics, or revived retro‑game code.
+- You have a webapp with that *one weird vulnerability* and want it squashed (caffeine and dark humor included).
 
 ---
 
@@ -38,15 +39,15 @@ I build secure, scalable, and sometimes over-engineered stuff. Mostly with **MER
 
 ---
 
-## 🚀 Life Motto
+## 🎯 Life Motto
 
-> "Move fast. Fix broken graphs. Blame the network later."
-
----
-
-### ⚡ Let's connect  
-[LinkedIn](https://www.linkedin.com/in/sohail-khan-8185b5243/) • [Email](mailto:sohail.example@email.com) • [Portfolio](https://yourportfolio.dev) *(You should add one if you haven’t yet)*
+> "Exploit the bug, patch the code, repeat—life’s better that way."
 
 ---
 
-🖤 Built with frustration, curiosity, and a terminal open somewhere.
+### ⚡ Let’s Connect  
+[LinkedIn](https://www.linkedin.com/in/sohail-khan-8185b5243/) • [Email](mailto:sohail.example@email.com) • [Portfolio](https://yourportfolio.dev)
+
+---
+
+🖤 Built on curiosity, caffeine, and the occasional stack overflow panic.
