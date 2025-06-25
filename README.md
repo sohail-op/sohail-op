@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Sohail Khan
 
-> Full‑Stack Dev ⚙️ • Socket.io Surgeon 🧠 • Cloud-native Minimalist ☁️ • Bug Hunter by Night 🐞
+> Full‑Stack Dev ⚙️ • Bug Hunter by Night 🐞
 
-I'm a passionate builder, breaker, and debugger—equally at home crafting real-time apps as I am digging through source maps for security holes. I thrive at the intersection of web dev and cybersec (especially red teaming and bug bounty stuff).
+I build secure, scalable, and sometimes over-engineered stuff. Mostly with **MERN**, **Next.js**, **Redis**, and **a mild caffeine addiction**. Plus a serious love for bug‑hunting life..
 
 ---
 
 ## 🛠 Projects That Don’t Sleep
 
-- **🟢 YAP** – A full-stack MERN chat app with live messaging, JWT auth, profile pics, and real-time user presence. Built with Next.js, Zustand, and Tailwind CSS. Think WhatsApp, but more developer therapy and less stickers.
+- **💬 YAP** – A full-stack MERN chat app with live messaging, JWT auth, profile pics, and real-time user presence. Built with Next.js, Zustand, and Tailwind CSS. Think WhatsApp, but more developer therapy and less stickers.
 
 - **📊 SysWatch** – A distributed system monitoring suite. 10 simulated clients push real-time process stats to a central server via Redis Pub/Sub. It's nerdy, modular, and useful when you want to know exactly how your machines are suffering.
 
@@ -20,15 +20,14 @@ I'm a passionate builder, breaker, and debugger—equally at home crafting real-
 
 ## 🔒 Cybersecurity & Bug Hunting
 
-Into bug bounty? Red team ops? Same here. I enjoy poking around in web apps, APIs, and client-side JS for anything weird—and I usually find something.
-
-Whether it’s CSP bypasses, misconfigured tokens, or that one missing `HttpOnly` flag... I’m hunting it.
+- Love that adrenaline when poking at systems and finding how they break.
+- If you're into pentesting, red‑teaming, or bug bounties—I’m right there with you.
 
 ---
 
-## 📡 Reach Out If...
+## 📡 Ping Me If...
 
-- You're building real-time apps and want help with sockets, scaling, or Redis magic.
+- You're setting up a bug bounty hunt and want a partner – or someone to rant with.
 - You’re looking to secure your frontend/backend (headers, JWTs, RCEs, the fun stuff).
 - You want a teammate to nerd out over race conditions or auth bypasses at 2AM.
 
@@ -49,8 +48,8 @@ Whether it’s CSP bypasses, misconfigured tokens, or that one missing `HttpOnly
 ---
 
 ### ⚡ Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/sohail-khan-8185b5243/) • [Email](mailto:sohail.example@domain.com) • [Portfolio](https://yourportfolio.dev)
+[LinkedIn](https://www.linkedin.com/in/sohail-khan-coder/) • [Email](mailto:lets.mail.sohail@gmail.com) • [Portfolio](https://ksohail.dev)
 
 ---
 
-🖤 Built on open source, late-night debugging, and healthy disrespect for insecure headers.
+🖤 Built with frustration, curiosity, and a terminal open somewhere.
